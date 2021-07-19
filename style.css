@@ -3,7 +3,7 @@
  }
  
  :root {
-    --background: white;
+    --background: #454545;
  
     --primary: #ff1ead;
     --secondary: #1effc3;
@@ -19,7 +19,6 @@
     padding: 1rem;
     background: var(--background);
     font-family: 'Source Code Pro', monospace;
-    
     text-rendering: optimizelegibility;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
@@ -119,7 +118,4 @@
 }
 a.value {
     color: white;
-}
-body {
-    background-color: grey;
 }
